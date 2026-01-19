@@ -1,1 +1,2 @@
 Hello Git User!
+Will you call me a madman?
