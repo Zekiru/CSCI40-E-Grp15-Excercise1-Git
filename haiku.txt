@@ -1,2 +1,3 @@
 Hello Git User!
 Will you call me a madman?
+Rain will come and go.
