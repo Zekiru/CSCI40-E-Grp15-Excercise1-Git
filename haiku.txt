@@ -1,1 +1,2 @@
 Hello Git User!
+Rain will come and go.
